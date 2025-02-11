@@ -1,1 +1,2 @@
-![github profile description](https://github.com/timeaszabo1217/timeaszabo1217/assets/119984926/2d062b89-f0dc-4d11-b529-cc7be12e32a5)
+![GitHub profile header](https://github.com/user-attachments/assets/7f592ecd-6a77-4d3c-bc94-9c8c8200a794)
+![GitHub profile about2](https://github.com/user-attachments/assets/41db35bd-d6af-405b-964b-298b7e8886de)
