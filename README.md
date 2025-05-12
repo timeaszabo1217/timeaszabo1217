@@ -1,5 +1,4 @@
-![github_banner](https://github.com/user-attachments/assets/c6221e3d-b988-411e-bd7a-fef30adeac52)
-
+![banner_simple](https://github.com/user-attachments/assets/81401a82-e970-4702-a0f4-500953de34ab)
 
 ## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞!
 
