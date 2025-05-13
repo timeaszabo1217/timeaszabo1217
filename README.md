@@ -1,4 +1,4 @@
-![github_cover](https://github.com/user-attachments/assets/e613c044-b488-4d4c-91e3-0de4032a1765)
+![github_cover](https://github.com/user-attachments/assets/c17b1473-7671-4395-9f6c-a59ff20cbcbc)
 
 ## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞!
 
