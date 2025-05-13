@@ -1,11 +1,13 @@
 ![github_cover](https://github.com/user-attachments/assets/c17b1473-7671-4395-9f6c-a59ff20cbcbc)
 
-## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞!
+## Hello there!
 
-I am currently studying 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 at the University of Szeged, with a strong focus on 𝐰𝐞𝐛 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭. I enjoy creating dynamic and user-friendly web applications and have gained experience in various programming languages and technologies, including:
+I am currently studying Computer Science at the University of Szeged, with a strong focus on web development. I enjoy creating dynamic and user-friendly web applications and have gained experience in various programming languages and technologies, including:
 
-- 𝐇𝐓𝐌𝐋, 𝐂𝐒𝐒, 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭
-- 𝐏𝐇𝐏, 𝐏𝐲𝐭𝐡𝐨𝐧, 𝐒𝐐𝐋, 𝐆𝐢𝐭, 𝐍𝐨𝐝𝐞.𝐣𝐬, 𝐕𝐮𝐞.𝐣𝐬
-- 𝐅𝐢𝐠𝐦𝐚
+✦ HTML, CSS, JavaScript, Vue.js
+✦ PHP, Node.js
+✦ MySQL, PostgreSQL
+✦ GitHub, GitLab
+✦ Figma
 
 Check out my works and feel free to reach out! 😊
