@@ -5,7 +5,7 @@
 I am currently studying Computer Science at the University of Szeged, with a strong focus on web development. I enjoy creating dynamic and user-friendly web applications and have gained experience in various programming languages and technologies, including:
 
 ✦ HTML, CSS, JavaScript, Vue.js  
-✦ PHP, Node.js  
+✦ PHP, Node.js, Python 
 ✦ MySQL, PostgreSQL  
 ✦ GitHub, GitLab  
 ✦ Figma  
