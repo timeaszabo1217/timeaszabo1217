@@ -10,4 +10,4 @@ I am currently studying Computer Science at the University of Szeged, with a str
 ✦ GitHub, GitLab  
 ✦ Figma  
 
-Check out my works and feel free to reach out! 😊
+Check out my works and feel free to reach out! 😊 
