@@ -1,5 +1,1 @@
-## Hello!
-
-I'm Timi – a creative and precise web developer & UI designer from Szeged, Hungary.   
-
-Check out my works and feel free to reach out! 😊 
+![github](https://github.com/user-attachments/assets/9a2a63a1-ed3e-4538-8ecd-9aeb335fb69e)
