@@ -1,12 +1,5 @@
-## Hello there!
+## Hello!
 
-I’m a passionate web developer and UI designer with hands-on experience in building complete, user-friendly web applications. 
-I have gained expertise in various programming languages and technologies, including:
-
-✦ HTML, CSS, JavaScript, Vue.js  
-✦ PHP, Node.js, Python  
-✦ MySQL, PostgreSQL  
-✦ GitHub, GitLab  
-✦ Figma  
+I'm Timi – a creative and precise web developer & UI designer from Szeged, Hungary.   
 
 Check out my works and feel free to reach out! 😊 
