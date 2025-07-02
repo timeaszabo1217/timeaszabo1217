@@ -1,8 +1,7 @@
-![github_cover](https://github.com/user-attachments/assets/c17b1473-7671-4395-9f6c-a59ff20cbcbc)
-
 ## Hello there!
 
- I’m a final-year Computer Science student at the University of Szeged, with a strong focus on frontend web development and UI/UX design. I enjoy creating dynamic and user-friendly web applications and have gained experience in various programming languages and technologies, including:
+I’m a passionate web developer and UI designer with hands-on experience in building complete, user-friendly web applications. 
+I have gained expertise in various programming languages and technologies, including:
 
 ✦ HTML, CSS, JavaScript, Vue.js  
 ✦ PHP, Node.js, Python  
